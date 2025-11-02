@@ -1,8 +1,8 @@
-# 🎓 Sistema de Calendarización de Exámenes
+#  Sistema de Calendarización de Exámenes
 
 Una aplicación web moderna y altamente modular para la gestión y calendarización de exámenes universitarios, desarrollada con React y las mejores prácticas de desarrollo frontend.
 
-## ✨ Características Principales
+##  Características Principales
 
 ### 🎨 **Diseño Moderno y Sofisticado**
 - **Gradientes y Sombras**: Efectos visuales modernos con gradientes CSS y sombras dinámicas
@@ -10,13 +10,13 @@ Una aplicación web moderna y altamente modular para la gestión y calendarizaci
 - **Glassmorphism**: Efectos de cristal con backdrop-filter para un look contemporáneo
 - **Responsive Design**: Optimizado para todos los dispositivos con breakpoints inteligentes
 
-### 🧩 **Arquitectura Modular**
+###  **Arquitectura Modular**
 - **Componentes Reutilizables**: Sistema de componentes UI completamente modular
 - **Sistema de Iconos**: Iconos SVG escalables y consistentes
 - **Sistema de Temas**: Variables CSS para fácil personalización y soporte para modo oscuro
 - **Separación de Responsabilidades**: Cada componente tiene una responsabilidad específica
 
-### 🚀 **Funcionalidades Avanzadas**
+###  **Funcionalidades Avanzadas**
 - **Página de Login**: Interfaz de autenticación con efectos visuales y validación
 - **Dashboard Interactivo**: Panel de control con estadísticas animadas
 - **Gestión de Exámenes**: Sistema completo de visualización y administración
@@ -32,7 +32,7 @@ Una aplicación web moderna y altamente modular para la gestión y calendarizaci
 - **CSS Animations** - Transiciones y efectos
 - **Create React App** - Herramientas de desarrollo
 
-## 📁 Estructura del Proyecto Mejorada
+##  Estructura del Proyecto Mejorada
 
 ```
 src/
@@ -54,7 +54,7 @@ src/
 └── index.css                          # Estilos base y utilidades
 ```
 
-## 🎯 Componentes UI Modulares
+##  Componentes UI Modulares
 
 ### **Button Component**
 - Múltiples variantes: `primary`, `secondary`, `ghost`, `danger`
@@ -86,21 +86,6 @@ src/
 - Acciones integradas (editar, eliminar)
 - Diseño responsive
 
-## 🎨 Sistema de Temas
-
-### **Variables CSS Organizadas**
-- **Colores**: Paleta completa con variantes
-- **Tipografía**: Escalas de tamaño y peso
-- **Espaciado**: Sistema de spacing consistente
-- **Sombras**: Múltiples niveles de elevación
-- **Gradientes**: Efectos visuales predefinidos
-- **Transiciones**: Curvas de animación optimizadas
-
-### **Soporte para Modo Oscuro**
-- Variables CSS para tema oscuro
-- Transiciones suaves entre temas
-- Colores optimizados para accesibilidad
-
 ## 📱 Diseño Responsive
 
 ### **Breakpoints Inteligentes**
@@ -115,7 +100,7 @@ src/
 - Tarjetas que se reorganizan según el espacio
 - Texto que se escala apropiadamente
 
-## 🎭 Animaciones y Micro-interacciones
+##  Animaciones y Micro-interacciones
 
 ### **Efectos Visuales**
 - **Hover Effects**: Transformaciones suaves en hover
@@ -128,14 +113,14 @@ src/
 - **Hardware Acceleration**: Uso de transform y opacity
 - **Reduced Motion**: Respeto por preferencias de accesibilidad
 
-## 🔧 Usuarios de Prueba
+##  Usuarios de Prueba
 
 - **Admin**: admin@universidad.edu
 - **Jefe de Carrera**: jefe@medicina.edu
 - **Servicios Escolares**: servicios@universidad.edu
 - **Contraseña**: password123
 
-## 🚀 Instalación y Ejecución
+##  Instalación y Ejecución
 
 1. **Instalar dependencias:**
 ```bash
@@ -159,33 +144,33 @@ http://localhost:3000
 - `npm run build` - Construye la aplicación para producción
 - `npm run eject` - Expone la configuración de webpack
 
-## 🎯 Mejores Prácticas Implementadas
+##  Mejores Prácticas Implementadas
 
 ### **Arquitectura**
-- ✅ Componentes funcionales con hooks
-- ✅ Separación clara de responsabilidades
-- ✅ Reutilización máxima de código
-- ✅ Props tipadas y documentadas
+-  Componentes funcionales con hooks
+-  Separación clara de responsabilidades
+-  Reutilización máxima de código
+-  Props tipadas y documentadas
 
 ### **Estilos**
-- ✅ CSS modular por componente
-- ✅ Variables CSS para consistencia
-- ✅ Mobile-first responsive design
-- ✅ Accesibilidad y contraste adecuado
+- CSS modular por componente
+- Variables CSS para consistencia
+- Mobile-first responsive design
+- Accesibilidad y contraste adecuado
 
 ### **Performance**
-- ✅ Componentes optimizados
-- ✅ Animaciones con hardware acceleration
-- ✅ Lazy loading de componentes
-- ✅ Bundle size optimizado
+- Componentes optimizados
+- Animaciones con hardware acceleration
+- Lazy loading de componentes
+- Bundle size optimizado
 
 ### **UX/UI**
-- ✅ Micro-interacciones fluidas
-- ✅ Estados de carga y feedback
-- ✅ Navegación intuitiva
-- ✅ Diseño consistente y profesional
+- Micro-interacciones fluidas
+- Estados de carga y feedback
+- Navegación intuitiva
+- Diseño consistente y profesional
 
-## 🌟 Características Destacadas
+## Características Destacadas
 
 ### **Login Page Mejorada**
 - Fondo con gradiente animado
@@ -204,37 +189,3 @@ http://localhost:3000
 - Props flexibles y configurables
 - Estados y variantes múltiples
 - Documentación integrada
-
-## 🔮 Futuras Mejoras
-
-- [ ] Integración con API backend
-- [ ] Sistema de notificaciones
-- [ ] Modo oscuro toggle
-- [ ] Internacionalización (i18n)
-- [ ] PWA capabilities
-- [ ] Testing automatizado
-- [ ] Storybook para documentación
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
